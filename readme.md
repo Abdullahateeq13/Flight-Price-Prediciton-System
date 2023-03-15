@@ -11,6 +11,18 @@
 
 3. Create a Components Folder in Src Folder:
 
+- __init__.py
+- data_ingestion.py
+- data_transformation.py
+- model_trainer.py
+
+
+
 
 4. Create a Pipeline folder in Src folder:
 
+There are 2 types of Pipeline:
+- trian_pipeline
+- predict_pipeline
+
+5. Logging and Exception File in Src Folder:
