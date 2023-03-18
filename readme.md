@@ -1,4 +1,4 @@
-## End to End Machine Learning Project - Book Recommendation System
+## End to End Machine Learning Project - Flight Price Prediction System
 
 1. Setup the GitHub Repository
     a. New Environment
